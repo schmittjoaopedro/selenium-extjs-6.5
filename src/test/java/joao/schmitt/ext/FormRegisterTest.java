@@ -10,9 +10,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.List;
 
-/**
- * Created by root on 25/07/17.
- */
 public class FormRegisterTest {
 
     private WebDriver webDriver;
