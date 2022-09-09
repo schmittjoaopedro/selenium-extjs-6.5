@@ -1,0 +1,31 @@
+{
+  "name": "selenium-extjs-6.5-nodejs",
+  "version": "1.0.0",
+  "description": "Test of ExtJS Framework with NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^3.5.0",
+    "chromedriver": "^2.31.0",
+    "geckodriver": "^1.8.0",
+    "mocha": "^3.4.2",
+    "chai": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmittjoaopedro/selenium-extjs-6.5-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "selenium",
+    "extjs"
+  ],
+  "author": "João Pedro Schmitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schmittjoaopedro/selenium-extjs-6.5-nodejs/issues"
+  },
+  "homepage": "https://github.com/schmittjoaopedro/selenium-extjs-6.5-nodejs#readme"
+}
